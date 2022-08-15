@@ -1,0 +1,17 @@
+{
+  "name": "redline",
+  "version": "1.3.2",
+  "description": "simple post api readline dot env",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zexalryz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "^5.0.1",
+    "figlet": "^1.5.2"
+  }
+}
